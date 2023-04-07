@@ -1,0 +1,40 @@
+#main{
+    display: flex;
+}
+img {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-left: 55px;
+    height: 133px;
+    width: 200px;
+}
+div#productdiv {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 94px;
+}
+p{
+    margin-left: 55px;
+}
+.show{
+    color: darkmagenta;
+}
+input#inputs {
+    height: 18px;
+}
+
+.productmenu {
+    margin-top: 46px;
+    margin-left: -114px;
+}
+
+/* .p.p\:active.p\:hover.p\:visited.productmenu { */
+
+
+    /* color:#FF0000;}         Unvisited link  */
+   /* Visited link    */
+    /* p:hover {color:#FF00FF;}   Mouse over link */
+    /* p:active {color:darkmagenta;}  Selected link   */
+
+    /* p:link, a:visited { */
+        /* color: darkmagenta; */
+    /* } */
